@@ -103,8 +103,8 @@ The Cyber Sentinel Challenge is an 8-hour Jeopardy-style CTF hosted by the U.S. 
 
 ## Repository Structure
 ```
+
 ├── README.md ← you are here
-├── Category Breakdown.png
 ├── writeups/
 │ ├── recon/
 │ ├── osint/
@@ -112,6 +112,6 @@ The Cyber Sentinel Challenge is an 8-hour Jeopardy-style CTF hosted by the U.S. 
 │ ├── malware/
 │ ├── forensics/
 │ └── networking/
-└── resources/
+| |── resources/
 ├── recommended-tools.md
 └── rules-overview.pdf```
