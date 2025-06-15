@@ -95,8 +95,7 @@ The Cyber Sentinel Challenge is an 8-hour Jeopardy-style CTF hosted by the U.S. 
 ---
 
 ## Category Breakdown
-
-![Category Breakdown](Category%20Breakdown.png)
+[Category Breakdown](Category%20Breakdown.png)
 
 *Donut generated via matplotlib – each slice = % of total points earned.*
 
@@ -104,3 +103,15 @@ The Cyber Sentinel Challenge is an 8-hour Jeopardy-style CTF hosted by the U.S. 
 
 ## Repository Structure
 
+├── README.md ← you are here
+├── Category Breakdown.png
+├── writeups/
+│ ├── recon/
+│ ├── osint/
+│ ├── web/
+│ ├── malware/
+│ ├── forensics/
+│ └── networking/
+└── resources/
+├── recommended-tools.md
+└── rules-overview.pdf
