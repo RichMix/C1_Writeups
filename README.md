@@ -69,7 +69,7 @@ The Cyber Sentinel Challenge is an 8-hour Jeopardy-style CTF hosted by the U.S. 
 
 ---
 
-## Solved Challenges
+## Reposityory Structure Will Attempt To Replicate Solved Challenges
 
 | Category | Challenge | Points |
 |----------|-----------|--------|
